@@ -1,0 +1,22 @@
+{
+    "H2SO4": {
+        "pressure": 0.180,
+        "H": 10
+    },
+    "NaClO": {
+        "pressure": 0.116,
+        "H": 10
+    },
+    "NaOH": {
+        "pressure": 0.130,
+        "H": 10
+    },
+    "FeSO4": {
+        "pressure": 0.147,
+        "H": 10
+    },
+    "PAM": {
+        "pressure": 0.098,
+        "H": 10
+    }
+}
