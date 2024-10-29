@@ -1,6 +1,6 @@
 # *Control-Chaos*
 
-![alt text](H4CK13.png)
+![alt text](./pic/H4CK13.png)
 
  
 
